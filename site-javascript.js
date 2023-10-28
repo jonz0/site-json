@@ -474,7 +474,7 @@ particlesJS(
 );
 
 particlesJS(
-    "particles-js-3",
+    "particles-js-5",
 
     {
         "particles": {
