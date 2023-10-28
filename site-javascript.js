@@ -15,7 +15,7 @@ const onMouseMove = (e) => {
 document.addEventListener('mousemove', onMouseMove);
 
 particlesJS(
-    "testtesttest",
+    "particles-js-1",
     {
         "particles": {
             "number": {
