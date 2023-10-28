@@ -587,7 +587,7 @@ particlesJS(
 );
 
 particlesJS(
-    "particles-js-6", {
+    "particles-js-7", {
         "particles": {
             "number": {
                 "value": 45,
