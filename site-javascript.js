@@ -587,7 +587,7 @@ particlesJS(
 );
 
 particlesJS(
-    "particles-js-6",
+    "particles-js-3",
 
     {
         "particles": {
@@ -599,7 +599,7 @@ particlesJS(
                 }
             },
             "color": {
-                "value": "#ffffff"
+                "value": "#003EDF"
             },
             "shape": {
                 "type": "circle",
