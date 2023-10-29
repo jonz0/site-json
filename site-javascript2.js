@@ -169,7 +169,7 @@ particlesJS(
                 }
             },
             "size": {
-                "value": 5,
+                "value": 6,
                 "random": true,
                 "anim": {
                     "enable": false,
@@ -284,7 +284,7 @@ particlesJS(
                 }
             },
             "size": {
-                "value": 5,
+                "value": 6,
                 "random": true,
                 "anim": {
                     "enable": false,
@@ -399,7 +399,7 @@ particlesJS(
                 }
             },
             "size": {
-                "value": 4,
+                "value": 6,
                 "random": true,
                 "anim": {
                     "enable": false,
