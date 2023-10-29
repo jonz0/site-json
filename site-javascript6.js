@@ -29,7 +29,7 @@ particlesJS(
                 "value": "#49d9fd"
             },
             "shape": {
-                "type": ["cicle", "triangle", "square", "pentagon", "hexagon",
+                "type": ["cicle", "triangle", "square", "pentagon", "hexagon"],
                 "stroke": {
                     "width": 0,
                     "color": "#000000"
