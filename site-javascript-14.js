@@ -588,11 +588,12 @@ particlesJS(
     }
 );
 
-"particles-js-6",
+particlesJS(
+    "particles-js-6",
     {
         "particles": {
             "number": {
-                "value": 10,
+                "value": 15,
                 "density": {
                     "enable": true,
                     "value_area": 800
