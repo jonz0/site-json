@@ -129,7 +129,7 @@ particlesJS(
 );
 
 particlesJS(
-    "particles-js-6",
+    "particles-js-about",
     {
         "particles": {
             "number": {
